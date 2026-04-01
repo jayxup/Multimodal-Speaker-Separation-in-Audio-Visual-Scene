@@ -2,4 +2,4 @@
 
 ![Block Diagram](block-diagram-200-zoom.png)
 
-An interactive demo link will be posted soon! 
+Interactive Demo Link - [Demo](https://jayxup.github.io/multimodal-separation-demo/)
