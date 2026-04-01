@@ -2,6 +2,6 @@
 
 Interactive Demo Link - [Demo](https://jayxup.github.io/multimodal-separation-demo/)
 
-![Block Diagram](block-diagram-200-zoom.png)
+![Demo Preview](demo-preview.png)
 
 
